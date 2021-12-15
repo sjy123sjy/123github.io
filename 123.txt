@@ -70,7 +70,9 @@ CCTV音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u
 電影6_斗魚,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 電影7_斗魚,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 電影8_斗魚,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
-⚡音乐频道,#genre#1-MKV,http://em.21dtv.com/songs/60110001.mkv
+
+⚡音乐频道,#genre#
+1-MKV,http://em.21dtv.com/songs/60110001.mkv
 2-MKV,http://em.21dtv.com/songs/60110002.mkv
 3-MKV,http://em.21dtv.com/songs/60110003.mkv
 4-MKV,http://em.21dtv.com/songs/60110006.mkv
