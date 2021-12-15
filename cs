@@ -1,4 +1,4 @@
-$c_start港澳频道$c_end
+⚡港澳频道,#genre#
 凤凰中文台,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#https://player.ggiptv.com/v/ifeng.php?id=2#rtmp://58.200.131.2:1935/livetv/fhzw#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8#https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
 凤凰香港台,https://d1rq1yf783ri9s.cloudfront.net/p2_cbr_lo_720p.m3u8#https://player.ggiptv.com/v/ifeng.php?id=3#http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
@@ -18,7 +18,7 @@ TVB·翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv
 亚旅卫视,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 卫视音乐,rtmp://58.200.131.2:1935/livetv/channelv
 
-$c_start数字网络$c_end
+⚡频道,#genre#
 中华特产,http://play.zhtctv.cn/portal/btv.m3u8
 生态环境,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8#http://183.207.248.71/gitv/live1/G_XINYULE/G_XINYULE
 CNC-中文频道,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
@@ -37,7 +37,7 @@ CCTV-怀旧剧场,rtmp://58.200.131.2:1935/livetv/hjjctv
 CCTV-第一剧场,rtmp://58.200.131.2:1935/livetv/dyjctv
 CCTV-风云足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
 CCTV-兵器科技,rtmp://58.200.131.2:1935/livetv/gfjstv
-$c_start综合频道$c_end
+⚡综合频道,#genre#
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -132,8 +132,7 @@ VIU-TV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 VIU-6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 Eleven-体育1,rtmp://161.202.204.248:1935/sat/tv731
 Eleven-体育2,rtmp://161.202.204.248:1935/sat/tv741
-
-$c_start嗨曲$c_end
+⚡嗨曲频道,#genre#
 点歌的人,https://vd3.bdstatic.com/mda-kdi6hifkag5xsc4p/v1-cae/hd/mda-kdi6hifkag5xsc4p.mp4
 毛不易 Ⅰ 像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
 毛不易 Ⅰ 不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
@@ -216,9 +215,3 @@ Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D50166
 金莎 Ⅰ 星月神话,http://hd.yinyuetai.com/uploads/videos/common/688C014E18AEED9D3972B06A25D70855.mp4
 李玉刚 Ⅰ 梦回诛仙,http://220.194.238.104/13/y/c/k/c/yckcjlqfbusmaeslsffhfvajlmxoqt/hd.yinyuetai.com/21D6016E026639F9174363E4B2EB78AC.mp4?sc=7c7e0152a3a80191
 乔玲二 Ⅰ 你走进了我的心房,http://220.194.238.108/13/t/k/c/c/tkccjkpcpjtpdkcqvwbfznzhrtezsa/hc.yinyuetai.com/1E57016ABB574354709C08D37DD47091.mp4
-菲儿 Ⅰ 嗒嘀嗒DJ,https://www.zuori.cc/index/downloads?d=43165&v=l4TsnKYB
-$c_start4K$c_end
-BesTV4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-纯享4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-CCTV-4K,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8#http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8
-爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
