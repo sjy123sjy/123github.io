@@ -35,6 +35,7 @@ CCTV11,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
 CCTV12,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8
 CCTV音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u8
+
 ⚡卫视频道#genre#
 上海卫视高清,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/1.m3u8
 湖南卫视高清,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/1.m3u8
@@ -58,25 +59,25 @@ CCTV音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u
 贵州卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226632/1.m3u8
 吉林卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/1.m3u8
 ⚡电影频道,#genre#
-黑莓电影,http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8
-黑莓动画,http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8#http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8#http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8#http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8
+黑莓电影,http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221288888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221288881/32212888817/3221288818181810 /PLTV/88888888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148282000/117.148.179.32/PLTV/88888882. .m3u8#http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225568.20.07/index.m3u8.html /PLTV/3/224/3221225567/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.882/179.17/179/1882PL24/882/179.17/888273/179/8882824 .m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.32/PLTV/88888888/224/32201223
+黑莓动画,http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/322528888/224/3221228997 /PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8#http://117.19.148281827828785827858287587875878485PLTV/88888888886 .m3u8#http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3258888/224/3221228997 /PLTV/88888888/224/3221229675/index.m3u8#http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index .m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8
 黑莓电影,http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8
-黑莓动画,http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8
-電影1_斗魚,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-電影2_斗魚,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-電影3_斗魚,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-電影4_斗魚,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-電影5_斗魚,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-電影6_斗魚,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-電影7_斗魚,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-電影8_斗魚,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
+黑莓动画,http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/322512296m7
+电影1_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
+电影2_斗鱼,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+电影3_斗鱼,http://dyscdnali1.douyucdn.cn/live/85894rmvieChow.flv?uuid=
+电影4_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+电影6_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+电影7_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+电影8_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 
 ⚡音乐频道,#genre#
 1-MKV,http://em.21dtv.com/songs/60110001.mkv
 2-MKV,http://em.21dtv.com/songs/60110002.mkv
 3-MKV,http://em.21dtv.com/songs/60110003.mkv
-4-MKV,http://em.21dtv.com/songs/60110006.mkv
-5-MKV,http://em.21dtv.com/songs/60110004.mkv
+4-MKV，http://em.21dtv.com/songs/60110006.mkv
+5-MKV，http://em.21dtv.com/songs/60110004.mkv
 6-MKV,http://em.21dtv.com/songs/60110007.mkv
 7-MKV,http://em.21dtv.com/songs/60110005.mkv
 8-MKV,http://em.21dtv.com/songs/60110008.mkv
@@ -117,11 +118,11 @@ CCTV音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u
 43-MKV,http://em.21dtv.com/songs/60110042.mkv
 44-MKV,http://em.21dtv.com/songs/60110043.mkv
 46-MKV,http://em.21dtv.com/songs/60110045.mkv
-45-MKV,http://em.21dtv.com/songs/60110044.mkv
+45-MKV，http://em.21dtv.com/songs/60110044.mkv
 47-MKV,http://em.21dtv.com/songs/60110046.mkv
 48-MKV,http://em.21dtv.com/songs/60110047.mkv
 49-MKV,http://em.21dtv.com/songs/60110048.mkv
-50-MKV,http://em.21dtv.com/songs/60110049.mkv
+50-MKV，http://em.21dtv.com/songs/60110049.mkv
 舞蹈1,https://mvvideoshare2.meitudata.com/5e5a6b18f102dH264WEB683142_H264_4_1910a1499517b2.mp4
 舞蹈2,https://mvvideoshare2.meitudata.com/5e18860eebc3cspgpz9db86402_H264_4_4cdc5e794ee29.mp4
 舞蹈3,https://mvvideoshare2.meitudata.com/5e5cb64b3981b6eph4svtt5180_H264_4_732ebc590038a.mp4
