@@ -59,33 +59,4 @@ CCTV音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u
 贵州卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226632/1.m3u8
 吉林卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/1.m3u8
 ⚡电影频道,#genre#
-牛叔N分钟带你看完大片,http://dyscdnali1.douyucdn.cn/live/2758565rWlYm94Z0.flv?uuid=
-扁豆看电影解说,http://121.12.115.156/tx.hls.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.m3u8
-爆裂电影解说,http://121.12.115.156/tx.hls.huya.com/src/1199576334514-1199576334514-5499529228221153280-2399152792484-10057-A-0-1.m3u8
-楚门聊电影,http://121.12.115.156/tx.hls.huya.com/src/2322561713-2322561713-9975326600276738048-4645246882-10057-A-0-1.m3u8
-丧尸,http://121.12.115.156/tx.hls.huya.com/src/1199530067986-1199530067986-5300816003561684992-2399060259428-10057-A-0-1.m3u8
-虎牙【周星星星爷经典不间断,http://121.12.115.156/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
-【万合天宜王大锤,http://dyscdnali1.douyucdn.cn/live/9220456re2FvV8ae.flv?uuid=
-【林正英僵尸,http://dyscdnali1.douyucdn.cn/live/218859r9FhjG42MY.flv?uuid=
-经典电影沈腾周星驰,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-华语经典电影神乐,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-军旅喜剧动作意大利炮,http://dyscdnali1.douyucdn.cn/live/431460rVVp2EyFk5.flv?uuid=
-贝爷MAX厅科幻动作经典喜剧,http://dyscdnali1.douyucdn.cn/live/4332rxQmudda5oMa.flv?uuid=
-贝爷影厅经典科幻动作灾难巨兽,http://dyscdnali1.douyucdn.cn/live/252802rG7bH5BORE.flv?uuid=
-60帧 极致蓝光,http://dyscdnali1.douyucdn.cn/live/747764r3RP528jh8.flv?uuid=
-科幻动作喜剧电影,http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
-陈翔六点半,http://dyscdnali1.douyucdn.cn/live/2132902rSFCMBghC.flv?uuid=
-邵氏影院经典武侠动作,http://dyscdnali1.douyucdn.cn/live/4246519rnUuoyxCd.flv?uuid=
-60帧喜剧科幻,http://dyscdnali1.douyucdn.cn/live/6537888rgZo2DHH5.flv?uuid=
-黑莓电影,http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221288888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221288881/32212888817/3221288818181810 /PLTV/88888888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148282000/117.148.179.32/PLTV/88888882. .m3u8#http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225568.20.07/index.m3u8.html /PLTV/3/224/3221225567/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.882/179.17/179/1882PL24/882/179.17/888273/179/8882824 .m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.32/PLTV/88888888/224/32201223
-黑莓动画,http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/322528888/224/3221228997 /PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8#http://117.19.148281827828785827858287587875878485PLTV/88888888886 .m3u8#http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3258888/224/3221228997 /PLTV/88888888/224/3221229675/index.m3u8#http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index .m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8
-黑莓电影,http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8
-黑莓动画,http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/322512296m7
-电影1_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-电影2_斗鱼,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-电影3_斗鱼,http://dyscdnali1.douyucdn.cn/live/85894rmvieChow.flv?uuid=
-电影4_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-电影6_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-电影7_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-电影8_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
+
