@@ -72,16 +72,13 @@ CCTV音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u
 科幻动作喜剧电影,http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
 陈翔六点半,http://dyscdnali1.douyucdn.cn/live/2132902rSFCMBghC.flv?uuid=
 邵氏影院经典武侠动作,http://dyscdnali1.douyucdn.cn/live/4246519rnUuoyxCd.flv?uuid=
-60帧喜剧科幻,http://dyscdnali1.douyucdn.cn/live/6537888rgZo2DHH5.flv?uuid=
 黑莓电影,http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221288888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221288881/32212888817/3221288818181810 /PLTV/88888888/224/3221229734/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148282000/117.148.179.32/PLTV/88888882. .m3u8#http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225568.20.07/index.m3u8.html /PLTV/3/224/3221225567/index.m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.882/179.17/179/1882PL24/882/179.17/888273/179/8882824 .m3u8#http://117.148.179.32/PLTV/88888888/224/3221229010/index.m3u8#http://117.148.179.32/PLTV/88888888/224/32201223
 黑莓动画,http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/322528888/224/3221228997 /PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8#http://117.19.148281827828785827858287587875878485PLTV/88888888886 .m3u8#http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3258888/224/3221228997 /PLTV/88888888/224/3221229675/index.m3u8#http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index .m3u8#http://117.148.179.44/PLTV/88888888/224/3221229675/index.m3u8
 黑莓电影,http://117.148.179.17/PLTV/88888888/224/3221229734/index.m3u8
 黑莓动画,http://117.148.179.37/PLTV/88888888/224/3221228998/index.m3u8#http://117.148.179.44/PLTV/88888888/224/322512296m7
 电影1_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 电影2_斗鱼,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-电影3_斗鱼,http://dyscdnali1.douyucdn.cn/live/85894rmvieChow.flv?uuid=
 电影4_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
 电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
 电影6_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 电影7_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-电影8_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
