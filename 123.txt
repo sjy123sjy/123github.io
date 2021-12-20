@@ -67,7 +67,6 @@ CCTV音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u
 华语经典电影神乐,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 军旅喜剧动作意大利炮,http://dyscdnali1.douyucdn.cn/live/431460rVVp2EyFk5.flv?uuid=
 贝爷MAX厅科幻动作经典喜剧,http://dyscdnali1.douyucdn.cn/live/4332rxQmudda5oMa.flv?uuid=
-贝爷影厅经典科幻动作灾难巨兽,http://dyscdnali1.douyucdn.cn/live/252802rG7bH5BORE.flv?uuid=
 60帧 极致蓝光,http://dyscdnali1.douyucdn.cn/live/747764r3RP528jh8.flv?uuid=
 科幻动作喜剧电影,http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E.flv?uuid=
 陈翔六点半,http://dyscdnali1.douyucdn.cn/live/2132902rSFCMBghC.flv?uuid=
