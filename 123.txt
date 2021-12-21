@@ -61,7 +61,17 @@ CCTV音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u
 ⚡电影频道,#genre#
 
 牛叔N分钟带你看完大片,http://dyscdnali1.douyucdn.cn/live/2758565rWlYm94Z0.flv?uuid=
-万合天宜王大锤,http://dyscdnali1.douyucdn.cn/live/9220456re2FvV8ae.flv?uuid=
+万合天宜王大锤,http://dyscdnali1.douyucdn.cn/live/9220456r3ZdVVaFO.flv?uuid=
+贝爷影厅经典 科幻,http://dyscdnali1.douyucdn.cn/live/252802rnJEvKQL5B.flv?uuid=
+冰冰❤️恐怖/经典,http://dyscdnali1.douyucdn.cn/live/74374rxBWPJfW7Gd.flv?uuid=
+s1134经典 科幻,http://dyscdnali1.douyucdn.cn/live/248753rwmD1A0B0a.flv?uuid=
+恐怖丧尸灾难科幻,http://dyscdnali1.douyucdn.cn/live/263824rY7r7Ykt7m.flv?uuid=
+【恐怖电影】僵尸,http://dyscdnali1.douyucdn.cn/live/310926rJHQ9WNa6z.flv?uuid=
+【恐怖电影】经典,http://dyscdnali1.douyucdn.cn/live/9275635rmjJuUKK4.flv?uuid=
+猫和老鼠,http://dyscdnali1.douyucdn.cn/live/7888428rxMjmtY3r.flv?uuid=
+【香港赌片】喜剧,http://dyscdnali1.douyucdn.cn/live/315457rGxEJOfxKX.flv?uuid=
+【小鸽陪看】华语,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+成龙/李连杰/动作/武侠,http://dyscdnali1.douyucdn.cn/live/6763930rOYDlOj7k.flv?uuid=
 林正英僵尸,http://dyscdnali1.douyucdn.cn/live/218859r9FhjG42MY.flv?uuid=
 经典电影沈腾周星驰,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
 华语经典电影神乐,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
