@@ -18,7 +18,41 @@ CCTV15,https://feiyang.vip-tptv.xyz/migu/673168223.m3u8?migutoken=6a3bd54cebd303
 CCTV16,http://www.erbao1981.top:8188/udp/239.76.246.98:1234
 CCTV17,https://feiyang.vip-tptv.xyz/migu/673168256.m3u8?migutoken=52280c5b2f746770d8080cb7a707d7c4ea179577b52e8285fbe4652aa0c2400e8b526b7c0834dfbbac4e14b798c15e0042cae9413d3544583d8a8007a05671d85b97507efdcd62f0f0bcb94a5a
 
+📡  河南频道,#genre#
+河南卫视,http://live.nctv.top/6688/hntv.php?id=hnws
+河南新闻,http://live.nctv.top/6688/hntv.php?id=hnxw
+河南都市,http://live.nctv.top/6688/hntv.php?id=hnds
+河南民生,http://live.nctv.top/6688/hntv.php?id=hnms
+河南法治,http://live.nctv.top/6688/hntv.php?id=hnfz
+河南电视剧,http://live.nctv.top/6688/hntv.php?id=hndsj
+河南公共,http://live.nctv.top/6688/hntv.php?id=hngg
+河南乡村,http://live.nctv.top/6688/hntv.php?id=hnxc
+河南国际,http://live.nctv.top/6688/hntv.php?id=hngj
+河南梨园,http://live.nctv.top/6688/hntv.php?id=hnly
+文物宝库,http://live.nctv.top/6688/hntv.php?id=wwbk
+武术世界,http://live.nctv.top/6688/hntv.php?id=wspd
+睛彩中原,http://live.nctv.top/6688/hntv.php?id=jczy
+象视界,http://live.nctv.top/6688/hntv.php?id=xsj
+国学频道,http://live.nctv.top/6688/hntv.php?id=gxpd
 
+郑州新闻综合,http://live.nctv.top/6688/hntv.php?id=zz1
+开封新闻综合,http://live.nctv.top/6688/hntv.php?id=kf1
+洛阳新闻综合,http://live.nctv.top/6688/hntv.php?id=ly1
+平顶山新闻综合,http://live.nctv.top/6688/hntv.php?id=pds1
+安阳新闻综合,http://live.nctv.top/6688/hntv.php?id=ay1
+鹤壁新闻综合,http://live.nctv.top/6688/hntv.php?id=hb1
+新乡新闻综合,http://live.nctv.top/6688/hntv.php?id=xx1
+焦作新闻综合,http://live.nctv.top/6688/hntv.php?id=jz1
+濮阳新闻综合,http://live.nctv.top/6688/hntv.php?id=py1
+许昌新闻综合,http://live.nctv.top/6688/hntv.php?id=xc1
+漯河新闻综合,http://live.nctv.top/6688/hntv.php?id=lh1
+三门峡新闻综合,http://live.nctv.top/6688/hntv.php?id=smx1
+南阳新闻综合,http://live.nctv.top/6688/hntv.php?id=ny1
+商丘新闻综合,http://live.nctv.top/6688/hntv.php?id=sq1
+信阳新闻综合,http://live.nctv.top/6688/hntv.php?id=xy1
+周口新闻综合,http://live.nctv.top/6688/hntv.php?id=zk1
+驻马店新闻综合,http://live.nctv.top/6688/hntv.php?id=zmd1
+济源新闻综合,http://live.nctv.top/6688/hntv.php?id=jy1
 
 
 
