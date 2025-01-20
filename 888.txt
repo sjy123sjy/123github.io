@@ -1,36 +1,36 @@
 📽直播通用线路，#genre#
 
-CCTV-1HD,http://123.10.76.13:808/hls/1/index.m3u8
+CCTV-1HD，http://123.10.76.13:808/hls/1/index.m3u8
 
-CCTV-2HD,http://123.10.76.13:808/hls/2/index.m3u8
+CCTV-2HD，http://123.10.76.13:808/hls/2/index.m3u8
 
-CCTV-3HD,http://123.10.76.13:808/hls/3/index.m3u8
+CCTV-3HD，http://123.10.76.13:808/hls/3/index.m3u8
 
-CCTV-4HD,http://123.10.76.13:808/hls/4/index.m3u8
+CCTV-4HD，http://123.10.76.13:808/hls/4/index.m3u8
 
-CCTV-5HD,http://123.10.76.13:808/hls/5/index.m3u8
+CCTV-5HD，http://123.10.76.13:808/hls/5/index.m3u8
 
-CCTV-6HD,http://123.10.76.13:808/hls/6/index.m3u8
+CCTV-6HD，http://123.10.76.13:808/hls/6/index.m3u8
 
-CCTV-7HD,http://123.10.76.13:808/hls/7/index.m3u8
+CCTV-7HD，http://123.10.76.13:808/hls/7/index.m3u8
 
-CCTV-8HD,http://123.10.76.13:808/hls/8/index.m3u8
+CCTV-8HD，http://123.10.76.13:808/hls/8/index.m3u8
 
-CCTV-9HD,http://123.10.76.13:808/hls/9/index.m3u8
+CCTV-9HD，http://123.10.76.13:808/hls/9/index.m3u8
 
 CCTV-10HD,http://123.10.76.13:808/hls/10/index.m3u8
 
 CCTV-11HD,http://123.10.76.13:808/hls/11/index.m3u8
 
-CCTV-12HD,http://123.10.76.13:808/hls/12/index.m3u8
+CCTV-12HD，http://123.10.76.13:808/hls/12/index.m3u8
 
 CCTV-13HD,http://123.10.76.13:808/hls/13/index.m3u8
 
-CCTV-14HD,http://123.10.76.13:808/hls/14/index.m3u8
+CCTV-14HD，http://123.10.76.13:808/hls/14/index.m3u8
 
 CCTV-15HD,http://123.10.76.13:808/hls/15/index.m3u8
 
-CCTV-1HD,http://123.10.76.13:808/hls/26/index.m3u8
+CCTV-1HD，http://123.10.76.13:808/hls/26/index.m3u8
 
 
 
@@ -41,7 +41,7 @@ CCTV-1HD,http://123.10.76.13:808/hls/26/index.m3u8
 
 湖南卫视HD,http://123.10.76.13:808/hls/33/index.m3u8
 
-江苏卫视,http://123.10.76.13:808/hls/34/index.m3u8
+江苏卫视，http://123.10.76.13:808/hls/34/index.m3u8
 
 浙江卫视,http://123.10.76.13:808/hls/35/index.m3u8
 
@@ -53,9 +53,9 @@ CCTV-1HD,http://123.10.76.13:808/hls/26/index.m3u8
 
 山东卫视,http://123.10.76.13:808/hls/39/index.m3u8
 
-安徽卫视,http://123.10.76.13:808/hls/40/index.m3u8
+安徽卫视，http://123.10.76.13:808/hls/40/index.m3u8
 
-深圳卫视,http://123.10.76.13:808/hls/41/index.m3u8
+深圳卫视，http://123.10.76.13:808/hls/41/index.m3u8
 
 江西卫视,http://123.10.76.13:808/hls/42/index.m3u8
 
@@ -105,7 +105,7 @@ CCTV-1HD,http://123.10.76.13:808/hls/26/index.m3u8
 
 兵团卫视,http://123.10.76.13:808/hls/70/index.m3u8
 
-江苏卫视HD,http://123.10.76.13:808/hls/71/index.m3u8
+江苏卫视高清,http://123.10.76.13:808/hls/71/index.m3u8
 
 山东教育卫视,http://123.10.76.13:808/hls/89/index.m3u8
 
@@ -113,13 +113,13 @@ CCTV-1HD,http://123.10.76.13:808/hls/26/index.m3u8
 
 
 
-CGTN,http://123.10.76.13:808/hls/16/index.m3u8
+中国国际广播电台，http://123.10.76.13:808/hls/16/index.m3u8
 
 河南都市,http://123.10.76.13:808/hls/18/index.m3u8
 
 河南民生,http://123.10.76.13:808/hls/19/index.m3u8
 
-河南法治,http://123.10.76.13:808/hls/20/index.m3u8
+河南基金会，http://123.10.76.13:808/hls/20/index.m3u8
 
 河南电视剧,http://123.10.76.13:808/hls/21/index.m3u8
 
@@ -137,13 +137,13 @@ CGTN,http://123.10.76.13:808/hls/16/index.m3u8
 
 河南中华功夫,http://123.10.76.13:808/hls/29/index.m3u8
 
-轮播,http://123.10.76.13:808/hls/31/index.m3u8
+轮播，http://123.10.76.13:808/hls/31/index.m3u8
 
-轮播,http://123.10.76.13:808/hls/32/index.m3u8
+轮播，http://123.10.76.13:808/hls/32/index.m3u8
 
 北京卡酷少儿,http://123.10.76.13:808/hls/64/index.m3u8
 
-hnjykt,http://123.10.76.13:808/hls/65/index.m3u8
+hnjykt，http://123.10.76.13:808/hls/65/index.m3u8
 
 嘉佳卡通,http://123.10.76.13:808/hls/66/index.m3u8
 
@@ -155,7 +155,7 @@ hnjykt,http://123.10.76.13:808/hls/65/index.m3u8
 
 河南移动戏曲,http://123.10.76.13:808/hls/74/index.m3u8
 
-IPTV收视指南,http://123.10.76.13:808/hls/75/index.m3u8
+IPTV收视指南，http://123.10.76.13:808/hls/75/index.m3u8
 
 IPTV少儿动画,http://123.10.76.13:808/hls/76/index.m3u8
 
@@ -163,19 +163,19 @@ IPTV少儿动画,http://123.10.76.13:808/hls/76/index.m3u8
 
 IPTV经典电影,http://123.10.76.13:808/hls/79/index.m3u8
 
-IPTV谍战剧场,http://123.10.76.13:808/hls/80/index.m3u8
+IPTV电视剧，http://123.10.76.13:808/hls/80/index.m3u8
 
 IPTV相声小品,http://123.10.76.13:808/hls/81/index.m3u8
 
 IPTV热播剧场,http://123.10.76.13:808/hls/82/index.m3u8
 
-IPTV法治,http://123.10.76.13:808/hls/83/index.m3u8
+IPTV基础，http://123.10.76.13:808/hls/83/index.m3u8
 
-IPTV野外,http://123.10.76.13:808/hls/84/index.m3u8
+IPTV野外，http://123.10.76.13:808/hls/84/index.m3u8
 
 音乐现场,http://123.10.76.13:808/hls/85/index.m3u8
 
-轮播,http://123.10.76.13:808/hls/86/index.m3u8
+轮播，http://123.10.76.13:808/hls/86/index.m3u8
 
 临颍综合频道,http://123.10.76.13:808/hls/88/index.m3u8
 
@@ -185,9 +185,9 @@ IPTV野外,http://123.10.76.13:808/hls/84/index.m3u8
 
 军事,http://123.10.76.13:808/hls/93/index.m3u8
 
-轮播,http://123.10.76.13:808/hls/94/index.m3u8
+轮播，http://123.10.76.13:808/hls/94/index.m3u8
 
-CHC动作电影,http://123.10.76.13:808/hls/97/index.m3u8
+CHC动作电影，http://123.10.76.13:808/hls/97/index.m3u8
 
 CHC影迷电影,http://123.10.76.13:808/hls/98/index.m3u8
 
@@ -199,8 +199,7 @@ CHC家庭影院,http://123.10.76.13:808/hls/99/index.m3u8
 
 
 
-📡中国IPTV，#流派#
-
+📡中国IPTV，#genre#
 CCTV1,http://119.163.57.206:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://221.193.168.116:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://121.232.187.17:5000/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -382,24 +381,4 @@ CCTV风云足球,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&pla
 黑龙江卫视,http://116.11.156.245:8811/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://116.11.156.159:8811/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://42.53.32.247:9902/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-
-📡河南频道,#流派#
-
-
-
-
-
-🐘河南,#流派#
-
-河南卫视,http://49.232.131.30:99/dxxw.php?id=hnws
-
-
-
-
-
-
-
-
-⚡电影专线一,#类型#
-【牛叔】N分钟带你观看大片,http://159.75.85.63:35455/douyu/2758565
 
