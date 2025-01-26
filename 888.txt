@@ -1,199 +1,171 @@
-📽直播通用线路，#genre#
 
-CCTV-1HD，http://123.10.76.13:808/hls/1/index.m3u8
+🐼银河,#genre#
+CCTV1,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
 
-CCTV-2HD，http://123.10.76.13:808/hls/2/index.m3u8
+CCTV1,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
 
-CCTV-3HD，http://123.10.76.13:808/hls/3/index.m3u8
+CCTV2,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
 
-CCTV-4HD，http://123.10.76.13:808/hls/4/index.m3u8
+CCTV3,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
 
-CCTV-5HD，http://123.10.76.13:808/hls/5/index.m3u8
+CCTV4,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 
-CCTV-6HD，http://123.10.76.13:808/hls/6/index.m3u8
+CCTV5,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
 
-CCTV-7HD，http://123.10.76.13:808/hls/7/index.m3u8
+CCTV6,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8
 
-CCTV-8HD，http://123.10.76.13:808/hls/8/index.m3u8
+CCTV7,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
 
-CCTV-9HD，http://123.10.76.13:808/hls/9/index.m3u8
+CCTV8,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8
 
-CCTV-10HD,http://123.10.76.13:808/hls/10/index.m3u8
+CCTV9,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8
 
-CCTV-11HD,http://123.10.76.13:808/hls/11/index.m3u8
+CCTV10,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
 
-CCTV-12HD，http://123.10.76.13:808/hls/12/index.m3u8
+CCTV11,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
 
-CCTV-13HD,http://123.10.76.13:808/hls/13/index.m3u8
+CCTV12,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-12-HQ/G_CCTV-12-HQ.m3u8
 
-CCTV-14HD，http://123.10.76.13:808/hls/14/index.m3u8
+CCTV13,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 
-CCTV-15HD,http://123.10.76.13:808/hls/15/index.m3u8
+CCTV14,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8
 
-CCTV-1HD，http://123.10.76.13:808/hls/26/index.m3u8
+CCTV15,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
 
+CCTV16,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
 
+CCTV17,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
 
+CCTV5+,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
 
+湖南卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8
 
+东方卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8
 
-河南卫视HD,http://123.10.76.13:808/hls/17/index.m3u8
+江苏卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8
 
-湖南卫视HD,http://123.10.76.13:808/hls/33/index.m3u8
+广东卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_GUANGDONG-HQ/G_GUANGDONG-HQ.m3u8
 
-江苏卫视，http://123.10.76.13:808/hls/34/index.m3u8
+浙江卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ.m3u8
 
-浙江卫视,http://123.10.76.13:808/hls/35/index.m3u8
+北京卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
 
-北京卫视,http://123.10.76.13:808/hls/36/index.m3u8
+深圳卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 
-东方卫视,http://123.10.76.13:808/hls/37/index.m3u8
+天津卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_TIANJIN-HQ/G_TIANJIN-HQ.m3u8
 
-天津卫视,http://123.10.76.13:808/hls/38/index.m3u8
+山东卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SHANDONG-HQ/G_SHANDONG-HQ.m3u8
 
-山东卫视,http://123.10.76.13:808/hls/39/index.m3u8
+安徽卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ANHUI-HQ/G_ANHUI-HQ.m3u8
 
-安徽卫视，http://123.10.76.13:808/hls/40/index.m3u8
+江西卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_JIANGXI-HQ/G_JIANGXI-HQ.m3u8
 
-深圳卫视，http://123.10.76.13:808/hls/41/index.m3u8
+黑龙江卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ.m3u8
 
-江西卫视,http://123.10.76.13:808/hls/42/index.m3u8
+四川卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8
 
-湖北卫视,http://123.10.76.13:808/hls/43/index.m3u8
+贵州卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_GUIZHOU-HQ/G_GUIZHOU-HQ.m3u8
 
-四川卫视,http://123.10.76.13:808/hls/44/index.m3u8
+湖北卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HUBEI-HQ/G_HUBEI-HQ.m3u8
 
-黑龙江卫视,http://123.10.76.13:808/hls/45/index.m3u8
+辽宁卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_LIAONING-HQ/G_LIAONING-HQ.m3u8
 
-云南卫视,http://123.10.76.13:808/hls/46/index.m3u8
+广西卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_GUANGXI-HQ/G_GUANGXI-HQ.m3u8
 
-贵州卫视,http://123.10.76.13:808/hls/47/index.m3u8
+重庆卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CHONGQING-HQ/G_CHONGQING-HQ.m3u8
 
-辽宁卫视,http://123.10.76.13:808/hls/48/index.m3u8
+东南卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8
 
-东南卫视,http://123.10.76.13:808/hls/49/index.m3u8
+吉林卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8
 
-重庆卫视,http://123.10.76.13:808/hls/50/index.m3u8
+海南卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8
 
-广东卫视,http://123.10.76.13:808/hls/51/index.m3u8
+云南卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_YUNNAN-HQ/G_YUNNAN-HQ.m3u8
 
-广西卫视,http://123.10.76.13:808/hls/52/index.m3u8
+厦门卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_XIAMEN/G_XIAMEN.m3u8
 
-河北卫视,http://123.10.76.13:808/hls/53/index.m3u8
+河南卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8
 
-海南卫视,http://123.10.76.13:808/hls/54/index.m3u8
+河北卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HEBEI-HQ/G_HEBEI-HQ.m3u8
 
-吉林卫视,http://123.10.76.13:808/hls/55/index.m3u8
+陕西卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SHANXI-HQ/G_SHANXI-HQ.m3u8
 
-山西卫视,http://123.10.76.13:808/hls/56/index.m3u8
+甘肃卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_GANSU-HQ/G_GANSU-HQ.m3u8
 
-陕西卫视,http://123.10.76.13:808/hls/57/index.m3u8
+宁夏卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
 
-甘肃卫视,http://123.10.76.13:808/hls/58/index.m3u8
+青海卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_QINGHAI/G_QINGHAI.m3u8
 
-宁夏卫视,http://123.10.76.13:808/hls/59/index.m3u8
+西藏卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_XIZANG/G_XIZANG.m3u8
 
-青海卫视,http://123.10.76.13:808/hls/60/index.m3u8
+新疆卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_XINJIANG/G_XINJIANG.m3u8
 
-内蒙古卫视,http://123.10.76.13:808/hls/61/index.m3u8
+内蒙古卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8
 
-西藏卫视,http://123.10.76.13:808/hls/62/index.m3u8
+三沙卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8
 
-新疆卫视,http://123.10.76.13:808/hls/63/index.m3u8
+农林卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
 
-厦门卫视,http://123.10.76.13:808/hls/69/index.m3u8
+延边卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_YANBIAN/G_YANBIAN.m3u8
 
-兵团卫视,http://123.10.76.13:808/hls/70/index.m3u8
+兵团卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8
 
-江苏卫视高清,http://123.10.76.13:808/hls/71/index.m3u8
+山东教育卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SDETV/G_SDETV.m3u8
 
-山东教育卫视,http://123.10.76.13:808/hls/89/index.m3u8
+康巴卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_KANGBA/G_KANGBA.m3u8
 
+安多卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ANDUO/G_ANDUO.m3u8
 
+卡酷少儿,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_KAKU/G_KAKU.m3u8
 
+金鹰卡通,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_JINYING/G_JINYING.m3u8
 
+优漫卡通,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
 
-中国国际广播电台，http://123.10.76.13:808/hls/16/index.m3u8
+哈哈炫动,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
 
-河南都市,http://123.10.76.13:808/hls/18/index.m3u8
+嘉佳卡通,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_JIAJIA/G_JIAJIA.m3u8
 
-河南民生,http://123.10.76.13:808/hls/19/index.m3u8
+女性时尚,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8
 
-河南基金会，http://123.10.76.13:808/hls/20/index.m3u8
+老故事,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
 
-河南电视剧,http://123.10.76.13:808/hls/21/index.m3u8
+发现之旅,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
 
-河南新闻,http://123.10.76.13:808/hls/22/index.m3u8
+早期教育,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CETV-ZQJY/G_CETV-ZQJY.m3u8
 
-河南移动电视,http://123.10.76.13:808/hls/23/index.m3u8
+家庭理财,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_JIATINGLC/G_JIATINGLC.m3u8
 
-河南公共,http://123.10.76.13:808/hls/24/index.m3u8
+中华美食,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ZHONGHUAMS/G_ZHONGHUAMS.m3u8
 
-河南乡村,http://123.10.76.13:808/hls/25/index.m3u8
+天元围棋,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_TIANYUANWQ/G_TIANYUANWQ.m3u8
 
-河南戏曲,http://123.10.76.13:808/hls/27/index.m3u8
+国学,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_GUOXUE/G_GUOXUE.m3u8
 
-河南收藏天下,http://123.10.76.13:808/hls/28/index.m3u8
+北京纪实科教,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
 
-河南中华功夫,http://123.10.76.13:808/hls/29/index.m3u8
+中国教育1台,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CETV-1-HQ/G_CETV-1-HQ.m3u8
 
-轮播，http://123.10.76.13:808/hls/31/index.m3u8
+中国教育2台,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CETV-2/G_CETV-2.m3u8
 
-轮播，http://123.10.76.13:808/hls/32/index.m3u8
+中国教育3台,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8
 
-北京卡酷少儿,http://123.10.76.13:808/hls/64/index.m3u8
+中国教育4台,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CETV-4/G_CETV-4.m3u8
 
-hnjykt，http://123.10.76.13:808/hls/65/index.m3u8
+CGTN,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 
-嘉佳卡通,http://123.10.76.13:808/hls/66/index.m3u8
+CGTN阿拉伯语,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CGTN_A/G_CGTN_A.m3u8
 
-中国教育1,http://123.10.76.13:808/hls/67/index.m3u8
+CGTN俄语,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CGTN-PYCCNN/G_CGTN-PYCCNN.m3u8
 
-中国教育4,http://123.10.76.13:808/hls/68/index.m3u8
+CGTN法语,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CGTN-FRANCAIS/G_CGTN-FRANCAIS.m3u8
 
-漯河新闻综合,http://123.10.76.13:808/hls/73/index.m3u8
+CGTN西班牙语,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CGTN-ESPANOL/G_CGTN-ESPANOL.m3u8
 
-河南移动戏曲,http://123.10.76.13:808/hls/74/index.m3u8
+大湾区卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_NANFANG/G_NANFANG.m3u8
 
-IPTV收视指南，http://123.10.76.13:808/hls/75/index.m3u8
+纪实人文(停播),http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
 
-IPTV少儿动画,http://123.10.76.13:808/hls/76/index.m3u8
-
-漯河公共频道,http://123.10.76.13:808/hls/78/index.m3u8
-
-IPTV经典电影,http://123.10.76.13:808/hls/79/index.m3u8
-
-IPTV电视剧，http://123.10.76.13:808/hls/80/index.m3u8
-
-IPTV相声小品,http://123.10.76.13:808/hls/81/index.m3u8
-
-IPTV热播剧场,http://123.10.76.13:808/hls/82/index.m3u8
-
-IPTV基础，http://123.10.76.13:808/hls/83/index.m3u8
-
-IPTV野外，http://123.10.76.13:808/hls/84/index.m3u8
-
-音乐现场,http://123.10.76.13:808/hls/85/index.m3u8
-
-轮播，http://123.10.76.13:808/hls/86/index.m3u8
-
-临颍综合频道,http://123.10.76.13:808/hls/88/index.m3u8
-
-舞阳新闻综合,http://123.10.76.13:808/hls/91/index.m3u8
-
-早教,http://123.10.76.13:808/hls/92/index.m3u8
-
-军事,http://123.10.76.13:808/hls/93/index.m3u8
-
-轮播，http://123.10.76.13:808/hls/94/index.m3u8
-
-CHC动作电影，http://123.10.76.13:808/hls/97/index.m3u8
-
-CHC影迷电影,http://123.10.76.13:808/hls/98/index.m3u8
-
-CHC家庭影院,http://123.10.76.13:808/hls/99/index.m3u8
-
-爱大剧,http://123.10.76.13:808/hls/101/index.m3u8
 
 
 
